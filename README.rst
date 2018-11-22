@@ -16,7 +16,7 @@ A lightbox library for text classification, collected state-of-art solution from
     * - | Package
       - | |version| |wheel| |supported-versions| |supported-implementations|
     * - | Build
-      - | |travis| |appveyor| |circleci| |requires| 
+      - | |travis| |appveyor| |circleci| |requires| |pyup|
     * - | Versions
       - | |commits-since| |zenodo|
     * - | Tests
@@ -44,6 +44,10 @@ A lightbox library for text classification, collected state-of-art solution from
 .. |requires| image:: https://requires.io/github/classtag/light-text-classification/requirements.svg?branch=master
     :alt: Requirements Status
     :target: https://requires.io/github/classtag/light-text-classification/requirements/?branch=master
+
+.. |pyup| image:: https://pyup.io/repos/github/classtag/light-text-classification/shield.svg
+    :target: https://pyup.io/repos/github/classtag/light-text-classification/
+    :alt: pyup Status
 
 .. |codecov| image:: https://codecov.io/github/classtag/light-text-classification/coverage.svg?branch=master
     :alt: Coverage Status
