@@ -10,7 +10,7 @@ Light Text Classification
     * - package
       - | |version| |wheel| |supported-versions| |supported-implementations|
     * - build
-      - | |travis| |appveyor| |requires| 
+      - | |travis| |appveyor| |circleci| |requires| 
     * - codes
       - | |commits-since| |zenodo|
     * - tests
@@ -31,6 +31,10 @@ Light Text Classification
 .. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/classtag/light-text-classification?branch=master&svg=true
     :alt: AppVeyor Build Status
     :target: https://ci.appveyor.com/project/classtag/light-text-classification
+
+.. |circleci| image:: https://circleci.com/gh/classtag/light-text-classification/tree/master.svg?style=svg&circle-token=:circle-token
+    :alt: CircleCI Build Status
+    :target https://circleci.com/gh/classtag/light-text-classification
 
 .. |requires| image:: https://requires.io/github/classtag/light-text-classification/requirements.svg?branch=master
     :alt: Requirements Status

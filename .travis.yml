@@ -45,7 +45,7 @@ install:
     fi
     set +x
 before_script:
-  - pip install -r requirements_dev.txt --use-mirrors
+  - pip install -r requirements_dev.txt
   - cd -
 script:
   - tox -v
