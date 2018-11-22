@@ -7,12 +7,17 @@ Light Text Classification
 .. list-table::
     :stub-columns: 1
 
-    * - docs
-      - |docs|
-    * - tests
-      - | |travis| |appveyor| |requires| |codecov| |coveralls|
     * - package
-      - | |version| |wheel| |supported-versions| |supported-implementations| |commits-since| |zenodo|
+      - | |version| |wheel| |supported-versions| |supported-implementations|
+    * - build
+      - | |travis| |appveyor| |requires| 
+    * - codes
+      - | |commits-since| |zenodo|
+    * - tests
+      - | |codecov| |coveralls|
+    * - docs
+      - | |docs|
+
 
 .. |docs| image:: https://readthedocs.org/projects/light-text-classification/badge/?style=flat
     :target: https://readthedocs.org/projects/light-text-classification
