@@ -116,3 +116,8 @@ Note, to combine the coverage data from all the tox environments run:
       - ::
 
             PYTEST_ADDOPTS=--cov-append tox
+
+
+.. image:: https://badges.gitter.im/light-text-classification/Lobby.svg
+   :alt: Join the chat at https://gitter.im/light-text-classification/Lobby
+   :target: https://gitter.im/light-text-classification/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
