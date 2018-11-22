@@ -39,6 +39,12 @@ on_failure:
 artifacts:
   - path: dist\*
 
+notifications:
+  - provider: Webhook
+    url: https://webhooks.gitter.im/e/5a6410e39165c8488fe1
+    on_build_success: True
+    on_build_failure: True
+
 ### To enable remote debugging uncomment this (also, see: http://www.appveyor.com/docs/how-to/rdp-to-build-worker):
 # on_finish:
 #   - ps: $blockRdp = $true; iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/appveyor/ci/master/scripts/enable-rdp.ps1'))

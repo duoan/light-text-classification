@@ -15,9 +15,14 @@ Light Text Classification
       - | |commits-since| |zenodo|
     * - | Tests
       - | |codecov| |coveralls|
+    * - | Community
+      - | |gitter|
     * - | Docs
       - | |docs|
 
+.. |gitter| image:: https://badges.gitter.im/light-text-classification/Lobby.svg
+    :alt: Join the chat at https://gitter.im/light-text-classification/Lobby
+    :target: https://gitter.im/light-text-classification/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
 .. |docs| image:: https://readthedocs.org/projects/light-text-classification/badge/?style=flat
     :target: https://readthedocs.org/projects/light-text-classification
@@ -116,8 +121,3 @@ Note, to combine the coverage data from all the tox environments run:
       - ::
 
             PYTEST_ADDOPTS=--cov-append tox
-
-
-.. image:: https://badges.gitter.im/light-text-classification/Lobby.svg
-   :alt: Join the chat at https://gitter.im/light-text-classification/Lobby
-   :target: https://gitter.im/light-text-classification/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge

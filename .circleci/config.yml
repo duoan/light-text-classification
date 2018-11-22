@@ -3,6 +3,12 @@
 # Check https://circleci.com/docs/2.0/language-python/ for more details
 #
 version: 2
+
+notify:
+  webhooks:
+    # A list of hook hashes, containing the url field
+    # gitter hook
+    - url: https://webhooks.gitter.im/e/d8a9f60390cebb8d0861
 jobs:
   build:
     docker:
