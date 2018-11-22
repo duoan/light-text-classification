@@ -12,7 +12,7 @@ Light Text Classification
     * - tests
       - | |travis| |appveyor| |requires| |codecov|
     * - package
-      - | |version| |wheel| |supported-versions| |supported-implementations| |commits-since|
+      - | |version| |wheel| |supported-versions| |supported-implementations| |commits-since| |zenodo|
 
 .. |docs| image:: https://readthedocs.org/projects/light-text-classification/badge/?style=flat
     :target: https://readthedocs.org/projects/light-text-classification
@@ -55,6 +55,9 @@ Light Text Classification
     :alt: Supported implementations
     :target: https://pypi.org/project/light-text-classification
 
+.. |zenodo| image:: https://zenodo.org/badge/21369/classtag/light-text-classification.svg
+    :alt: Release management
+    :target: https://zenodo.org/badge/latestdoi/21369/classtag/light-text-classification
 
 .. end-badges
 
