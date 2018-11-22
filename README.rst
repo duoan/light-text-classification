@@ -1,6 +1,6 @@
-========
-Overview
-========
+=========================
+Light Text Classification
+=========================
 
 .. start-badges
 
@@ -10,11 +10,9 @@ Overview
     * - docs
       - |docs|
     * - tests
-      - | |travis| |appveyor| |requires|
-        | |codecov|
+      - | |travis| |appveyor| |requires| |codecov|
     * - package
-      - | |version| |wheel| |supported-versions| |supported-implementations|
-        | |commits-since|
+      - | |version| |wheel| |supported-versions| |supported-implementations| |commits-since|
 
 .. |docs| image:: https://readthedocs.org/projects/light-text-classification/badge/?style=flat
     :target: https://readthedocs.org/projects/light-text-classification
@@ -39,28 +37,28 @@ Overview
 
 .. |version| image:: https://img.shields.io/pypi/v/light-text-classification.svg
     :alt: PyPI Package latest release
-    :target: https://pypi.python.org/pypi/light-text-classification
+    :target: https://pypi.org/project/light-text-classification
 
 .. |commits-since| image:: https://img.shields.io/github/commits-since/classtag/light-text-classification/v0.1.0.svg
     :alt: Commits since latest release
     :target: https://github.com/classtag/light-text-classification/compare/v0.1.0...master
 
-.. |wheel| image:: https://img.shields.io/pypi/wheel/light-text-classification.svg
+.. |wheel| image:: https://img.shields.io/project/wheel/light-text-classification.svg
     :alt: PyPI Wheel
-    :target: https://pypi.python.org/pypi/light-text-classification
+    :target: https://pypi.org/project/light-text-classification
 
 .. |supported-versions| image:: https://img.shields.io/pypi/pyversions/light-text-classification.svg
     :alt: Supported versions
-    :target: https://pypi.python.org/pypi/light-text-classification
+    :target: https://pypi.org/project/light-text-classification
 
 .. |supported-implementations| image:: https://img.shields.io/pypi/implementation/light-text-classification.svg
     :alt: Supported implementations
-    :target: https://pypi.python.org/pypi/light-text-classification
+    :target: https://pypi.org/project/light-text-classification
 
 
 .. end-badges
 
-An example package. Generated with cookiecutter-pylibrary.
+A lightbox library for text classification, collected state-of-art solution from recent years.
 
 * Free software: MIT license
 
@@ -75,7 +73,7 @@ Documentation
 =============
 
 
-https://light-text-classification.readthedocs.io/
+https://light-text-classification.readthedocs.io/en/latest/
 
 
 Development
@@ -88,7 +86,7 @@ To run the all tests run::
 Note, to combine the coverage data from all the tox environments run:
 
 .. list-table::
-    :widths: 10 90
+    :widths: 10 120
     :stub-columns: 1
 
     - - Windows
