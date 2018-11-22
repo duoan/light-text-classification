@@ -10,7 +10,7 @@ Light Text Classification
     * - docs
       - |docs|
     * - tests
-      - | |travis| |appveyor| |requires| |codecov|
+      - | |travis| |appveyor| |requires| |codecov| |coveralls|
     * - package
       - | |version| |wheel| |supported-versions| |supported-implementations| |commits-since| |zenodo|
 
@@ -34,6 +34,11 @@ Light Text Classification
 .. |codecov| image:: https://codecov.io/github/classtag/light-text-classification/coverage.svg?branch=master
     :alt: Coverage Status
     :target: https://codecov.io/github/classtag/light-text-classification
+
+.. |coveralls| image:: https://coveralls.io/repos/github/classtag/light-text-classification/badge.svg
+    :alt: Test Coverage History & Statistics
+    :target: https://coveralls.io/github/classtag/light-text-classification
+
 
 .. |version| image:: https://img.shields.io/pypi/v/light-text-classification.svg
     :alt: PyPI Package latest release
