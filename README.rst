@@ -7,15 +7,15 @@ Light Text Classification
 .. list-table::
     :stub-columns: 1
 
-    * - package
+    * - | Package
       - | |version| |wheel| |supported-versions| |supported-implementations|
-    * - build
+    * - | Build
       - | |travis| |appveyor| |circleci| |requires| 
-    * - codes
+    * - | Versions
       - | |commits-since| |zenodo|
-    * - tests
+    * - | Tests
       - | |codecov| |coveralls|
-    * - docs
+    * - | Docs
       - | |docs|
 
 
