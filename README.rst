@@ -4,13 +4,14 @@ Light Text Classification
 .. image:: https://badges.gitter.im/light-text-classification/Lobby.svg
    :alt: Join the chat at https://gitter.im/light-text-classification/Lobby
    :target: https://gitter.im/light-text-classification/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
-   
+
 A lightbox library for text classification, collected state-of-art solution from recent years.
 
 .. start-badges
 
 .. list-table::
     :stub-columns: 1
+    :align: left
 
     * - | Package
       - | |version| |wheel| |supported-versions| |supported-implementations|
@@ -36,7 +37,7 @@ A lightbox library for text classification, collected state-of-art solution from
     :alt: AppVeyor Build Status
     :target: https://ci.appveyor.com/project/classtag/light-text-classification
 
-.. |circleci| image:: https://circleci.com/gh/classtag/light-text-classification/tree/master.svg?style=svg&circle-token=:circle-token
+.. |circleci| image:: https://circleci.com/gh/classtag/light-text-classification/tree/master.svg?style=shield&circle-token=:circle-token
     :alt: CircleCI Build Status
     :target: https://circleci.com/gh/classtag/light-text-classification
 
