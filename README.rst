@@ -34,7 +34,7 @@ Light Text Classification
 
 .. |circleci| image:: https://circleci.com/gh/classtag/light-text-classification/tree/master.svg?style=svg&circle-token=:circle-token
     :alt: CircleCI Build Status
-    :target https://circleci.com/gh/classtag/light-text-classification
+    :target: https://circleci.com/gh/classtag/light-text-classification
 
 .. |requires| image:: https://requires.io/github/classtag/light-text-classification/requirements.svg?branch=master
     :alt: Requirements Status

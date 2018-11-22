@@ -8,6 +8,8 @@ include .coveragerc
 include .cookiecutterrc
 include .editorconfig
 include .coveralls.yml
+include .circleci/config.yml
+include requirements_dev.txt
 
 include AUTHORS.rst
 include CHANGELOG.rst
