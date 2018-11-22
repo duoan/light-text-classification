@@ -1,6 +1,11 @@
 =========================
 Light Text Classification
 =========================
+.. image:: https://badges.gitter.im/light-text-classification/Lobby.svg
+   :alt: Join the chat at https://gitter.im/light-text-classification/Lobby
+   :target: https://gitter.im/light-text-classification/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+   
+A lightbox library for text classification, collected state-of-art solution from recent years.
 
 .. start-badges
 
@@ -15,14 +20,8 @@ Light Text Classification
       - | |commits-since| |zenodo|
     * - | Tests
       - | |codecov| |coveralls|
-    * - | Community
-      - | |gitter|
     * - | Docs
       - | |docs|
-
-.. |gitter| image:: https://badges.gitter.im/light-text-classification/Lobby.svg
-    :alt: Join the chat at https://gitter.im/light-text-classification/Lobby
-    :target: https://gitter.im/light-text-classification/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
 .. |docs| image:: https://readthedocs.org/projects/light-text-classification/badge/?style=flat
     :target: https://readthedocs.org/projects/light-text-classification
@@ -80,10 +79,6 @@ Light Text Classification
 
 .. end-badges
 
-A lightbox library for text classification, collected state-of-art solution from recent years.
-
-* Free software: MIT license
-
 Installation
 ============
 
@@ -121,3 +116,7 @@ Note, to combine the coverage data from all the tox environments run:
       - ::
 
             PYTEST_ADDOPTS=--cov-append tox
+
+License
+===========
+* Free software: MIT license
