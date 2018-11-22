@@ -43,7 +43,7 @@ Light Text Classification
     :alt: Commits since latest release
     :target: https://github.com/classtag/light-text-classification/compare/v0.1.0...master
 
-.. |wheel| image:: https://img.shields.io/project/wheel/light-text-classification.svg
+.. |wheel| image:: https://img.shields.io/pypi/wheel/light-text-classification.svg
     :alt: PyPI Wheel
     :target: https://pypi.org/project/light-text-classification
 
