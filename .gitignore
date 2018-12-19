@@ -66,3 +66,6 @@ docs/_build
 
 # Mypy Cache
 .mypy_cache/
+.data
+.vector_cache
+__pycache__

@@ -15,4 +15,10 @@ codecov>=2.0.15
 pytest-cov==2.6.0
 python-coveralls
 
-scikit-learn==0.20.0
+
+nltk
+spacy
+torch
+torchtext
+torchvision
+scikit-learn
