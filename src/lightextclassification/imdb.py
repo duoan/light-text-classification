@@ -75,7 +75,9 @@ def run(batch_size, epochs, lr, momentum, log_interval):
       device=device)
 
   desc = "ITERATION - loss: {:.2f}"
-  pbar = tqdm(initial=0, leave=False, total=len(train_iter), desc=desc.format(0))
+  pbar = tqdm(
+      initial=0, leave=False, total=len(train_iter), desc=desc.format(0))
+
   @trainer.on(Events.ITERATION_COMPLETED)
   def log_training_loss(engine):
     iter = (engine.state.iteration - 1) % len(train_iter) + 1
