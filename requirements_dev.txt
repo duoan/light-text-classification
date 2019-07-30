@@ -23,5 +23,5 @@ torchtext
 torchvision
 scikit-learn
 =======
-scikit-learn==0.20.1
+scikit-learn==0.21.3
 >>>>>>> 6b51b16d6d95dd4e8841aec911aa9f46876b88e0
