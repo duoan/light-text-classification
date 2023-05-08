@@ -18,7 +18,7 @@ python-coveralls==2.9.1
 
 nltk
 spacy
-torch
+torch==2.0.1
 torchtext
 torchvision
 scikit-learn
